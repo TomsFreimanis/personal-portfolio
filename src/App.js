@@ -6,7 +6,7 @@ import { Skills } from "./components/Skills";
 import Projects from "./components/Projects";
 import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
-import Playground from "./components/Playground";
+
 import { useState } from "react";
 import { useEffect } from "react";
 import Preloader from "./components/Preloader";

@@ -50,8 +50,8 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="#"></a>
-                <a href="#"></a>
+                <a href="/home">a</a>
+                <a href="http://developertf.lv/">a</a>
 
               </div>
               <HashLink to='#connect'>
