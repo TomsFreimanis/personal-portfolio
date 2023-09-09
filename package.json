@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@babel/runtime": "^7.22.11",
+     "@babel/plugin-proposal-private-property-in-object": "^1.0.0",
     "@react-three/drei": "^9.80.9",
     "@react-three/fiber": "^8.13.7",
     "@splinetool/react-spline": "^2.2.6",
@@ -63,5 +64,6 @@
     "@babel/core": "^7.22.11",
     "@babel/preset-env": "^7.22.10",
     "@babel/preset-react": "^7.22.5"
+  
   }
 }
